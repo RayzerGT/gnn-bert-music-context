@@ -1,0 +1,11 @@
+{
+  "dataset": "MagnaTagATune",
+  "task": "task1_bert_baseline",
+  "seed": 42,
+  "split_sizes": {
+    "train": 14777,
+    "val": 2111,
+    "test": 4223
+  },
+  "top_k_tags": 50
+}

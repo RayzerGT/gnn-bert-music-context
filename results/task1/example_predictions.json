@@ -1,0 +1,174 @@
+[
+  {
+    "sample_index": 0,
+    "text": "Nova Express_ I'm Alive. Magnatune Compilation. High Energy Rock and Roll",
+    "true_tags": [
+      "guitar",
+      "rock",
+      "loud"
+    ],
+    "predicted_tags": [
+      "guitar",
+      "rock"
+    ],
+    "top_predicted_tags": [
+      {
+        "tag": "rock",
+        "probability": 0.9454
+      },
+      {
+        "tag": "guitar",
+        "probability": 0.6644
+      },
+      {
+        "tag": "loud",
+        "probability": 0.2042
+      },
+      {
+        "tag": "drums",
+        "probability": 0.1432
+      },
+      {
+        "tag": "metal",
+        "probability": 0.1312
+      }
+    ]
+  },
+  {
+    "sample_index": 1,
+    "text": "Sonata in G minor op. 5 no. 2 adagio & allegro. Tanya Tomkins and Eric Zivian. Beethoven Piano and Cello Works",
+    "true_tags": [
+      "violin"
+    ],
+    "predicted_tags": [
+      "classical",
+      "strings",
+      "piano",
+      "violin"
+    ],
+    "top_predicted_tags": [
+      {
+        "tag": "piano",
+        "probability": 0.9201
+      },
+      {
+        "tag": "classical",
+        "probability": 0.9131
+      },
+      {
+        "tag": "violin",
+        "probability": 0.6102
+      },
+      {
+        "tag": "strings",
+        "probability": 0.5617
+      },
+      {
+        "tag": "classic",
+        "probability": 0.2609
+      }
+    ]
+  },
+  {
+    "sample_index": 2,
+    "text": "Waddi Jah-Rapoon. DJ Cary. Eastern Grooves",
+    "true_tags": [
+      "drums",
+      "electronic"
+    ],
+    "predicted_tags": [
+      "drums",
+      "ambient",
+      "beat"
+    ],
+    "top_predicted_tags": [
+      {
+        "tag": "drums",
+        "probability": 0.5846
+      },
+      {
+        "tag": "ambient",
+        "probability": 0.5335
+      },
+      {
+        "tag": "beat",
+        "probability": 0.5157
+      },
+      {
+        "tag": "techno",
+        "probability": 0.3422
+      },
+      {
+        "tag": "electronic",
+        "probability": 0.3067
+      }
+    ]
+  },
+  {
+    "sample_index": 3,
+    "text": "I Cordia. Apa Ya. Apa Ya",
+    "true_tags": [
+      "vocals"
+    ],
+    "predicted_tags": [
+      "female",
+      "woman"
+    ],
+    "top_predicted_tags": [
+      {
+        "tag": "female",
+        "probability": 0.6811
+      },
+      {
+        "tag": "woman",
+        "probability": 0.5361
+      },
+      {
+        "tag": "vocal",
+        "probability": 0.4557
+      },
+      {
+        "tag": "singing",
+        "probability": 0.4468
+      },
+      {
+        "tag": "vocals",
+        "probability": 0.426
+      }
+    ]
+  },
+  {
+    "sample_index": 4,
+    "text": "Our watcher show us the way. Drevo. Christian Themes in Ukrainian Folk Songs",
+    "true_tags": [
+      "voice"
+    ],
+    "predicted_tags": [
+      "vocal",
+      "singing",
+      "vocals"
+    ],
+    "top_predicted_tags": [
+      {
+        "tag": "vocal",
+        "probability": 0.6358
+      },
+      {
+        "tag": "singing",
+        "probability": 0.6159
+      },
+      {
+        "tag": "vocals",
+        "probability": 0.5949
+      },
+      {
+        "tag": "female",
+        "probability": 0.2779
+      },
+      {
+        "tag": "voice",
+        "probability": 0.2325
+      }
+    ]
+  }
+]

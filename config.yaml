@@ -1,0 +1,13 @@
+data:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  splits_dir: data/splits
+model:
+  bert_model: bert-base-uncased
+  gnn_hidden_dim: 128
+  fusion_hidden_dim: 256
+training:
+  batch_size: 32
+  lr: 1e-4
+  epochs: 20
+  weight_decay: 0.01
